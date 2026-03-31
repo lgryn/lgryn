@@ -52,15 +52,8 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-
-<a href="https://github.com/lgryn">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://x.com/Liubomyrary">
-  <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter" />
-</a>
-
+  <a href="https://github.com/lgryn"><img valign="middle" src="https://img.shields.io/badge/GitHub-lgryn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a><!--
+  --> <a href="https://x.com/Liubomyrary"><img valign="middle" src="https://img.shields.io/badge/X-@Liubomyrary-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
 ---
